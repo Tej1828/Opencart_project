@@ -1,0 +1,369 @@
+11:24:46.295 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting TC_0001_AccountResgistrationTest***
+11:24:46.753 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+11:24:49.123 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+11:24:49.125 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+11:24:51.110 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+11:24:51.577 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+11:24:51.579 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Finished TC_001_AccountResgistrationTest
+11:27:32.233 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting TC_0001_AccountResgistrationTest***
+11:27:32.682 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+11:27:34.124 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+11:27:34.125 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+11:27:36.945 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+11:27:38.353 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+11:27:38.354 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Finished TC_001_AccountResgistrationTest
+11:28:53.180 [main] DEBUG io.netty.util.internal.logging.InternalLoggerFactory - Using Log4J2 as the default logging framework
+11:28:53.187 [main] DEBUG io.netty.util.ResourceLeakDetector - -Dio.netty.leakDetection.level: simple
+11:28:53.187 [main] DEBUG io.netty.util.ResourceLeakDetector - -Dio.netty.leakDetection.targetRecords: 4
+11:28:53.189 [main] DEBUG io.netty.util.ResourceLeakDetectorFactory - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@280e8a1a
+11:28:53.197 [main] DEBUG io.netty.util.internal.PlatformDependent0 - -Dio.netty.noUnsafe: false
+11:28:53.197 [main] DEBUG io.netty.util.internal.PlatformDependent0 - Java version: 11
+11:28:53.197 [main] DEBUG io.netty.util.internal.PlatformDependent0 - sun.misc.Unsafe.theUnsafe: available
+11:28:53.198 [main] DEBUG io.netty.util.internal.PlatformDependent0 - sun.misc.Unsafe.copyMemory: available
+11:28:53.198 [main] DEBUG io.netty.util.internal.PlatformDependent0 - sun.misc.Unsafe.storeFence: available
+11:28:53.198 [main] DEBUG io.netty.util.internal.PlatformDependent0 - java.nio.Buffer.address: available
+11:28:53.198 [main] DEBUG io.netty.util.internal.PlatformDependent0 - direct buffer constructor: unavailable: Reflective setAccessible(true) disabled
+11:28:53.198 [main] DEBUG io.netty.util.internal.PlatformDependent0 - java.nio.Bits.unaligned: available, true
+11:28:53.199 [main] DEBUG io.netty.util.internal.PlatformDependent0 - jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable: class io.netty.util.internal.PlatformDependent0$7 cannot access class jdk.internal.misc.Unsafe (in module java.base) because module java.base does not export jdk.internal.misc to unnamed module @506dcf55
+11:28:53.199 [main] DEBUG io.netty.util.internal.PlatformDependent0 - java.nio.DirectByteBuffer.<init>(long, int): unavailable
+11:28:53.199 [main] DEBUG io.netty.util.internal.PlatformDependent - sun.misc.Unsafe: available
+11:28:53.199 [main] DEBUG io.netty.util.internal.PlatformDependent - maxDirectMemory: 2147483648 bytes (maybe)
+11:28:53.199 [main] DEBUG io.netty.util.internal.PlatformDependent - -Dio.netty.tmpdir: /var/folders/qk/wv78ppx52_v8c1rqq2zmqk5r0000gn/T (java.io.tmpdir)
+11:28:53.199 [main] DEBUG io.netty.util.internal.PlatformDependent - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+11:28:53.200 [main] DEBUG io.netty.util.internal.PlatformDependent - Platform: MacOS
+11:28:53.200 [main] DEBUG io.netty.util.internal.PlatformDependent - -Dio.netty.maxDirectMemory: -1 bytes
+11:28:53.200 [main] DEBUG io.netty.util.internal.PlatformDependent - -Dio.netty.uninitializedArrayAllocationThreshold: -1
+11:28:53.201 [main] DEBUG io.netty.util.internal.CleanerJava9 - java.nio.ByteBuffer.cleaner(): available
+11:28:53.201 [main] DEBUG io.netty.util.internal.PlatformDependent - -Dio.netty.noPreferDirect: false
+11:28:53.204 [main] DEBUG io.netty.util.internal.PlatformDependent - org.jctools-core.MpscChunkedArrayQueue: available
+11:28:53.212 [main] DEBUG io.netty.util.internal.InternalThreadLocalMap - -Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+11:28:53.212 [main] DEBUG io.netty.util.internal.InternalThreadLocalMap - -Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+11:28:53.221 [main] DEBUG io.netty.handler.ssl.JdkSslContext - Default protocols (JDK): [TLSv1.3, TLSv1.2] 
+11:28:53.221 [main] DEBUG io.netty.handler.ssl.JdkSslContext - Default cipher suites (JDK): [TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_AES_128_GCM_SHA256, TLS_AES_256_GCM_SHA384]
+11:28:53.226 [main] DEBUG io.netty.util.concurrent.GlobalEventExecutor - -Dio.netty.globalEventExecutor.quietPeriodSeconds: 1
+11:28:53.230 [main] DEBUG io.netty.channel.MultithreadEventLoopGroup - -Dio.netty.eventLoopThreads: 16
+11:28:53.233 [main] DEBUG io.netty.channel.nio.NioEventLoop - -Dio.netty.noKeySetOptimization: false
+11:28:53.233 [main] DEBUG io.netty.channel.nio.NioEventLoop - -Dio.netty.selectorAutoRebuildThreshold: 512
+11:28:53.244 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.numHeapArenas: 16
+11:28:53.244 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.numDirectArenas: 16
+11:28:53.244 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.pageSize: 8192
+11:28:53.244 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.maxOrder: 9
+11:28:53.244 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.chunkSize: 4194304
+11:28:53.244 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.smallCacheSize: 256
+11:28:53.245 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.normalCacheSize: 64
+11:28:53.245 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+11:28:53.245 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.cacheTrimInterval: 8192
+11:28:53.245 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.cacheTrimIntervalMillis: 0
+11:28:53.245 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.useCacheForAllThreads: false
+11:28:53.245 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+11:28:53.249 [main] DEBUG io.netty.buffer.ByteBufUtil - -Dio.netty.allocator.type: pooled
+11:28:53.249 [main] DEBUG io.netty.buffer.ByteBufUtil - -Dio.netty.threadLocalDirectBufferSize: 0
+11:28:53.249 [main] DEBUG io.netty.buffer.ByteBufUtil - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+11:28:53.399 [Forwarding newSession on session null to remote] DEBUG io.netty.channel.DefaultChannelId - -Dio.netty.processId: 21125 (auto-detected)
+11:28:53.400 [Forwarding newSession on session null to remote] DEBUG io.netty.util.NetUtil - -Djava.net.preferIPv4Stack: false
+11:28:53.400 [Forwarding newSession on session null to remote] DEBUG io.netty.util.NetUtil - -Djava.net.preferIPv6Addresses: false
+11:28:53.402 [Forwarding newSession on session null to remote] DEBUG io.netty.util.NetUtilInitializations - Loopback interface: lo0 (lo0, 0:0:0:0:0:0:0:1%lo0)
+11:28:53.402 [Forwarding newSession on session null to remote] DEBUG io.netty.util.NetUtil - Failed to get SOMAXCONN from sysctl and file /proc/sys/net/core/somaxconn. Default: 128
+11:28:53.403 [Forwarding newSession on session null to remote] DEBUG io.netty.channel.DefaultChannelId - -Dio.netty.machineId: d4:57:63:ff:fe:d1:d3:e7 (auto-detected)
+11:28:53.432 [AsyncHttpClient-1-2] DEBUG io.netty.buffer.AbstractByteBuf - -Dio.netty.buffer.checkAccessible: true
+11:28:53.432 [AsyncHttpClient-1-2] DEBUG io.netty.buffer.AbstractByteBuf - -Dio.netty.buffer.checkBounds: true
+11:28:53.432 [AsyncHttpClient-1-2] DEBUG io.netty.util.ResourceLeakDetectorFactory - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@4f857792
+11:28:53.445 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.maxCapacityPerThread: 4096
+11:28:53.445 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.ratio: 8
+11:28:53.445 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.chunkSize: 32
+11:28:53.445 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.blocking: false
+11:28:53.445 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.batchFastThreadLocalOnly: true
+11:28:57.838 [AsyncHttpClient-1-2] DEBUG io.netty.handler.codec.compression.Brotli - brotli4j not in the classpath; Brotli support will be unavailable.
+11:28:57.882 [main] DEBUG io.netty.util.internal.ThreadLocalRandom - -Dio.netty.initialSeedUniquifier: 0x01c2410cf04829bd
+11:29:00.131 [main] DEBUG testCases.TC_001_AccountRegistrationTest - Application logs....
+11:29:00.131 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting TC_0001_AccountResgistrationTest***
+11:29:00.580 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+11:29:02.147 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+11:29:02.149 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+11:29:04.680 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+11:29:05.585 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+11:29:05.586 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Finished TC_001_AccountResgistrationTest
+11:35:14.956 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting TC_0001_AccountResgistrationTest***
+11:35:15.397 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+11:35:16.906 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+11:35:16.907 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+11:35:20.314 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+11:35:21.710 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+11:35:21.711 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Finished TC_001_AccountResgistrationTest
+11:35:38.707 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting TC_0001_AccountResgistrationTest***
+11:35:39.143 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+11:35:40.615 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+11:35:40.617 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+11:35:43.199 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+11:35:44.690 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+11:35:44.691 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Finished TC_001_AccountResgistrationTest
+12:12:56.667 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting TC_0001_AccountResgistrationTest***
+12:12:57.122 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+12:12:58.742 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+12:12:58.743 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+12:13:01.350 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+12:13:02.068 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+12:13:02.069 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Finished TC_001_AccountResgistrationTest
+12:32:36.063 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting TC_0001_AccountResgistrationTest***
+12:32:36.371 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+12:32:38.754 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+12:32:38.756 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+12:32:41.137 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+12:32:41.169 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+12:32:41.170 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Finished TC_001_AccountResgistrationTest
+12:32:48.599 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting TC_0001_AccountResgistrationTest***
+12:32:48.960 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+12:32:51.048 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+12:32:51.048 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+12:32:54.640 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+12:32:54.693 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+12:32:54.693 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Finished TC_001_AccountResgistrationTest
+12:35:21.713 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting TC_0001_AccountResgistrationTest***
+12:35:22.077 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting TC_0001_AccountResgistrationTest***
+12:35:22.545 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+12:35:22.727 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+12:35:26.139 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+12:35:26.141 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+12:35:26.792 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+12:35:26.793 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+12:35:29.910 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+12:35:30.130 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+12:35:30.131 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - *** Finished TC_001_AccountResgistrationTest
+12:35:31.907 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+12:35:31.945 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+12:35:31.945 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - *** Finished TC_001_AccountResgistrationTest
+13:17:17.442 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting TC_0001_AccountResgistrationTest***
+13:17:18.326 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+13:17:19.631 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting TC_0001_AccountResgistrationTest***
+13:17:20.445 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+13:17:21.957 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+13:17:21.959 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+13:17:24.325 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+13:17:24.327 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+13:17:26.923 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+13:17:26.965 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+13:17:26.966 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - *** Finished TC_001_AccountResgistrationTest
+13:17:29.630 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+13:17:29.667 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+13:17:29.667 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - *** Finished TC_001_AccountResgistrationTest
+18:17:02.411 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting TC_0001_AccountResgistrationTest***
+18:17:02.881 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+18:17:04.415 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+18:17:04.416 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+18:17:09.757 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+18:17:09.854 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+18:17:09.855 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Finished TC_001_AccountResgistrationTest
+18:18:17.880 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting TC_0001_AccountResgistrationTest***
+18:18:18.287 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+18:18:19.879 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+18:18:19.880 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+18:18:22.270 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+18:18:32.296 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+18:19:43.556 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting TC_0001_AccountResgistrationTest***
+18:19:44.006 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+18:19:45.544 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+18:19:45.546 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+18:19:48.263 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+18:19:58.339 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+18:22:41.459 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting TC_0001_AccountResgistrationTest***
+18:22:41.886 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+18:22:43.466 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+18:22:43.468 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+18:22:46.197 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+18:22:56.272 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+18:29:16.255 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting TC_0001_AccountResgistrationTest***
+18:29:16.681 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+18:29:18.205 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+18:29:18.206 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+18:29:20.662 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+18:29:30.746 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+12:55:31.150 [main] INFO  testCases.TC_002_LoginTest - Starting_TC_002_LoginTest
+12:55:31.639 [main] INFO  testCases.TC_002_LoginTest - Clicked on My account
+12:55:33.416 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login
+12:55:33.417 [main] INFO  testCases.TC_002_LoginTest - Providng Login Creds
+12:55:34.456 [main] INFO  testCases.TC_002_LoginTest -  Finished TC_002_LoginTest
+16:40:40.240 [main] INFO  testCases.TC_003_LoginDDT - Starting_TC_003_LoginDDT
+16:40:40.682 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My account
+16:40:41.321 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login
+16:40:41.322 [main] INFO  testCases.TC_003_LoginDDT - Providing Login Credentials
+16:43:21.680 [main] INFO  testCases.TC_003_LoginDDT - Starting_TC_003_LoginDDT
+16:43:22.132 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My account
+16:43:22.840 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login
+16:43:22.841 [main] INFO  testCases.TC_003_LoginDDT - Providing Login Credentials
+16:43:25.467 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDataDrivenTest
+16:43:25.477 [main] INFO  testCases.TC_003_LoginDDT - Starting_TC_003_LoginDDT
+16:43:25.861 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My account
+16:43:26.636 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login
+16:43:26.636 [main] INFO  testCases.TC_003_LoginDDT - Providing Login Credentials
+16:47:04.324 [main] INFO  testCases.TC_003_LoginDDT - Starting_TC_003_LoginDDT
+16:47:04.756 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My account
+16:47:05.429 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login
+16:47:05.429 [main] INFO  testCases.TC_003_LoginDDT - Providing Login Credentials
+16:47:06.953 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDataDrivenTest
+16:47:06.963 [main] INFO  testCases.TC_003_LoginDDT - Starting_TC_003_LoginDDT
+16:47:07.170 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My account
+16:47:07.962 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login
+16:47:07.962 [main] INFO  testCases.TC_003_LoginDDT - Providing Login Credentials
+16:49:50.474 [main] INFO  testCases.TC_003_LoginDDT - Starting_TC_003_LoginDDT
+16:49:50.917 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My account
+16:49:51.550 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login
+16:49:51.551 [main] INFO  testCases.TC_003_LoginDDT - Providing Login Credentials
+16:49:52.944 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDataDrivenTest
+16:49:52.956 [main] INFO  testCases.TC_003_LoginDDT - Starting_TC_003_LoginDDT
+16:49:53.344 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My account
+16:49:53.942 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login
+16:49:53.942 [main] INFO  testCases.TC_003_LoginDDT - Providing Login Credentials
+16:52:39.015 [main] INFO  testCases.TC_003_LoginDDT - Starting_TC_003_LoginDDT
+16:52:39.351 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My account
+16:52:39.822 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login
+16:52:39.822 [main] INFO  testCases.TC_003_LoginDDT - Providing Login Credentials
+16:52:41.851 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDataDrivenTest
+16:52:41.860 [main] INFO  testCases.TC_003_LoginDDT - Starting_TC_003_LoginDDT
+16:52:42.762 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My account
+16:52:43.113 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login
+16:52:43.113 [main] INFO  testCases.TC_003_LoginDDT - Providing Login Credentials
+16:57:55.856 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+16:57:58.592 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+16:57:58.603 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+16:58:10.019 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+16:58:10.021 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+16:58:21.059 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+16:58:21.062 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+16:58:31.777 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+16:58:31.780 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+16:58:33.221 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+17:01:37.847 [main] INFO  testCases.TC_002_LoginTest - Starting_TC_002_LoginTest
+17:01:38.259 [main] INFO  testCases.TC_002_LoginTest - Clicked on My account
+17:01:38.885 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login
+17:01:38.886 [main] INFO  testCases.TC_002_LoginTest - Providng Login Creds
+17:01:40.197 [main] INFO  testCases.TC_002_LoginTest -  Finished TC_002_LoginTest
+17:02:24.910 [main] INFO  testCases.TC_002_LoginTest - Starting_TC_002_LoginTest
+17:02:26.241 [main] INFO  testCases.TC_002_LoginTest - Clicked on My account
+17:02:27.109 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login
+17:02:27.110 [main] INFO  testCases.TC_002_LoginTest - Providng Login Creds
+11:57:13.171 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting TC_0001_AccountResgistrationTest***
+11:57:13.226 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting TC_0001_AccountResgistrationTest***
+11:57:14.368 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+11:57:14.793 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+11:57:17.269 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+11:57:17.271 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+11:57:17.781 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+11:57:17.782 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+11:57:22.527 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+11:57:22.553 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+11:57:32.553 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+11:57:32.622 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+11:59:51.721 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting TC_0001_AccountResgistrationTest***
+11:59:52.306 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+11:59:54.163 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+11:59:54.165 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+11:59:58.621 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+11:59:58.892 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+11:59:58.893 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Finished TC_001_AccountResgistrationTest
+12:00:07.109 [main] INFO  testCases.TC_002_LoginTest - Starting_TC_002_LoginTest
+12:00:07.678 [main] INFO  testCases.TC_002_LoginTest - Clicked on My account
+12:00:08.490 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login
+12:00:08.491 [main] INFO  testCases.TC_002_LoginTest - Providng Login Creds
+12:00:09.767 [main] INFO  testCases.TC_002_LoginTest -  Finished TC_002_LoginTest
+12:01:23.425 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting TC_0001_AccountResgistrationTest***
+12:01:23.970 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+12:01:25.771 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+12:01:25.772 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+12:01:29.398 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+12:01:29.709 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+12:01:29.710 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Finished TC_001_AccountResgistrationTest
+12:02:57.814 [main] INFO  testCases.TC_002_LoginTest - Starting_TC_002_LoginTest
+12:02:58.350 [main] INFO  testCases.TC_002_LoginTest - Clicked on My account
+12:02:59.101 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login
+12:02:59.101 [main] INFO  testCases.TC_002_LoginTest - Providng Login Creds
+12:03:00.409 [main] INFO  testCases.TC_002_LoginTest -  Finished TC_002_LoginTest
+12:05:17.229 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting TC_0001_AccountResgistrationTest***
+12:05:17.797 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+12:05:19.491 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+12:05:19.493 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+12:05:22.857 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+12:05:32.918 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+12:07:10.908 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting TC_0001_AccountResgistrationTest***
+12:07:11.343 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+12:07:12.945 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+12:07:12.946 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+12:07:15.429 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+12:07:26.023 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+12:13:22.783 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting TC_0001_AccountResgistrationTest***
+12:13:23.178 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+12:13:24.819 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+12:13:24.820 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+12:13:27.385 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+12:13:37.933 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+12:15:17.559 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting TC_0001_AccountResgistrationTest***
+12:15:17.987 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+12:15:19.605 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+12:15:19.606 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+12:15:22.117 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+12:15:22.850 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+12:15:22.851 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Finished TC_001_AccountResgistrationTest
+12:15:29.793 [main] INFO  testCases.TC_002_LoginTest - Starting_TC_002_LoginTest
+12:15:30.310 [main] INFO  testCases.TC_002_LoginTest - Clicked on My account
+12:15:30.953 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login
+12:15:30.954 [main] INFO  testCases.TC_002_LoginTest - Providng Login Creds
+12:15:31.980 [main] INFO  testCases.TC_002_LoginTest -  Finished TC_002_LoginTest
+12:16:45.893 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting TC_0001_AccountResgistrationTest***
+12:16:46.504 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+12:16:48.215 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+12:16:48.216 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+12:16:52.716 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+12:16:53.026 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+12:16:53.028 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Finished TC_001_AccountResgistrationTest
+12:17:00.954 [main] INFO  testCases.TC_002_LoginTest - Starting_TC_002_LoginTest
+12:17:01.496 [main] INFO  testCases.TC_002_LoginTest - Clicked on My account
+12:17:02.251 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login
+12:17:02.252 [main] INFO  testCases.TC_002_LoginTest - Providng Login Creds
+12:17:03.642 [main] INFO  testCases.TC_002_LoginTest -  Finished TC_002_LoginTest
+15:18:07.248 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting TC_0001_AccountResgistrationTest***
+15:18:07.295 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+15:18:07.559 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+15:18:07.560 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+15:18:08.212 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+15:18:08.239 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+15:18:08.240 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Finished TC_001_AccountResgistrationTest
+15:18:10.210 [main] INFO  testCases.TC_002_LoginTest - Starting_TC_002_LoginTest
+15:18:10.247 [main] INFO  testCases.TC_002_LoginTest - Clicked on My account
+15:18:10.402 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login
+15:18:10.403 [main] INFO  testCases.TC_002_LoginTest - Providng Login Creds
+15:18:10.882 [main] INFO  testCases.TC_002_LoginTest -  Finished TC_002_LoginTest
+15:33:42.258 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting TC_0001_AccountResgistrationTest***
+15:33:42.299 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+15:33:42.578 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+15:33:42.580 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+15:33:43.176 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+15:33:43.203 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+15:33:43.204 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Finished TC_001_AccountResgistrationTest
+15:33:45.189 [main] INFO  testCases.TC_002_LoginTest - Starting_TC_002_LoginTest
+15:33:45.226 [main] INFO  testCases.TC_002_LoginTest - Clicked on My account
+15:33:45.455 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login
+15:33:45.456 [main] INFO  testCases.TC_002_LoginTest - Providng Login Creds
+15:33:45.890 [main] INFO  testCases.TC_002_LoginTest -  Finished TC_002_LoginTest
+22:55:15.807 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting TC_0001_AccountResgistrationTest***
+22:55:16.550 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+22:55:18.658 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+22:55:18.662 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+22:55:23.307 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+22:55:23.582 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+22:55:23.585 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Finished TC_001_AccountResgistrationTest
+22:55:32.337 [main] INFO  testCases.TC_002_LoginTest - Starting_TC_002_LoginTest
+22:55:32.908 [main] INFO  testCases.TC_002_LoginTest - Clicked on My account
+22:55:33.772 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login
+22:55:33.774 [main] INFO  testCases.TC_002_LoginTest - Providng Login Creds
+22:55:35.570 [main] INFO  testCases.TC_002_LoginTest -  Finished TC_002_LoginTest
+19:00:54.447 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting TC_0001_AccountResgistrationTest***
+19:00:54.486 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+19:00:55.003 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+19:00:55.005 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+19:00:55.814 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+19:00:55.839 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+19:00:55.842 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Finished TC_001_AccountResgistrationTest
+19:00:58.841 [main] INFO  testCases.TC_002_LoginTest - Starting_TC_002_LoginTest
+19:00:58.876 [main] INFO  testCases.TC_002_LoginTest - Clicked on My account
+19:00:59.195 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login
+19:00:59.196 [main] INFO  testCases.TC_002_LoginTest - Providng Login Creds
+19:00:59.862 [main] INFO  testCases.TC_002_LoginTest -  Finished TC_002_LoginTest
