@@ -367,3 +367,50 @@
 19:00:59.195 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login
 19:00:59.196 [main] INFO  testCases.TC_002_LoginTest - Providng Login Creds
 19:00:59.862 [main] INFO  testCases.TC_002_LoginTest -  Finished TC_002_LoginTest
+13:16:37.360 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting TC_0001_AccountResgistrationTest***
+13:16:37.939 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+13:16:40.022 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+13:16:40.026 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+13:16:43.911 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+13:16:44.004 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+13:16:44.005 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Finished TC_001_AccountResgistrationTest
+13:16:52.798 [main] INFO  testCases.TC_002_LoginTest - Starting_TC_002_LoginTest
+13:16:53.325 [main] INFO  testCases.TC_002_LoginTest - Clicked on My account
+13:16:54.155 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login
+13:16:54.159 [main] INFO  testCases.TC_002_LoginTest - Providng Login Creds
+13:16:55.691 [main] INFO  testCases.TC_002_LoginTest -  Finished TC_002_LoginTest
+13:40:12.288 [main] INFO  testCases.TC_002_LoginTest - Starting_TC_002_LoginTest
+13:40:12.874 [main] INFO  testCases.TC_002_LoginTest - Clicked on My account
+13:40:13.784 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login
+13:40:13.786 [main] INFO  testCases.TC_002_LoginTest - Providng Login Creds
+13:40:15.391 [main] INFO  testCases.TC_002_LoginTest -  Finished TC_002_LoginTest
+13:47:16.756 [main] INFO  testCases.TC_002_LoginTest - Starting_TC_002_LoginTest
+13:47:17.335 [main] INFO  testCases.TC_002_LoginTest - Clicked on My account
+13:47:18.146 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login
+13:47:18.147 [main] INFO  testCases.TC_002_LoginTest - Providng Login Creds
+13:47:19.898 [main] INFO  testCases.TC_002_LoginTest -  Finished TC_002_LoginTest
+13:58:50.402 [main] INFO  testCases.TC_002_LoginTest - Starting_TC_002_LoginTest
+13:58:50.443 [main] INFO  testCases.TC_002_LoginTest - Clicked on My account
+13:58:50.804 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login
+13:58:50.805 [main] INFO  testCases.TC_002_LoginTest - Providng Login Creds
+13:58:51.583 [main] INFO  testCases.TC_002_LoginTest -  Finished TC_002_LoginTest
+14:30:02.592 [main] INFO  testCases.TC_002_LoginTest - Starting_TC_002_LoginTest
+14:30:02.648 [main] INFO  testCases.TC_002_LoginTest - Clicked on My account
+14:30:03.049 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login
+14:30:03.050 [main] INFO  testCases.TC_002_LoginTest - Providng Login Creds
+14:30:03.785 [main] INFO  testCases.TC_002_LoginTest -  Finished TC_002_LoginTest
+14:32:48.477 [main] INFO  testCases.TC_002_LoginTest - Starting_TC_002_LoginTest
+14:32:49.076 [main] INFO  testCases.TC_002_LoginTest - Clicked on My account
+14:32:49.892 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login
+14:32:49.893 [main] INFO  testCases.TC_002_LoginTest - Providng Login Creds
+14:32:51.657 [main] INFO  testCases.TC_002_LoginTest -  Finished TC_002_LoginTest
+14:58:24.980 [main] INFO  testCases.TC_002_LoginTest - Starting_TC_002_LoginTest
+14:58:25.540 [main] INFO  testCases.TC_002_LoginTest - Clicked on My account
+14:58:26.442 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login
+14:58:26.444 [main] INFO  testCases.TC_002_LoginTest - Providng Login Creds
+14:58:28.229 [main] INFO  testCases.TC_002_LoginTest -  Finished TC_002_LoginTest
+15:00:21.427 [main] INFO  testCases.TC_002_LoginTest - Starting_TC_002_LoginTest
+15:00:21.471 [main] INFO  testCases.TC_002_LoginTest - Clicked on My account
+15:00:21.785 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login
+15:00:21.786 [main] INFO  testCases.TC_002_LoginTest - Providng Login Creds
+15:00:22.472 [main] INFO  testCases.TC_002_LoginTest -  Finished TC_002_LoginTest
