@@ -414,3 +414,8 @@
 15:00:21.785 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login
 15:00:21.786 [main] INFO  testCases.TC_002_LoginTest - Providng Login Creds
 15:00:22.472 [main] INFO  testCases.TC_002_LoginTest -  Finished TC_002_LoginTest
+15:15:35.052 [main] INFO  testCases.TC_002_LoginTest - Starting_TC_002_LoginTest
+15:15:35.090 [main] INFO  testCases.TC_002_LoginTest - Clicked on My account
+15:15:35.389 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login
+15:15:35.390 [main] INFO  testCases.TC_002_LoginTest - Providng Login Creds
+15:15:36.105 [main] INFO  testCases.TC_002_LoginTest -  Finished TC_002_LoginTest
