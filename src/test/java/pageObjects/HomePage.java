@@ -18,6 +18,12 @@ public class HomePage extends BasePage {
 	
 	@FindBy(xpath ="//*[@id=\"top-links\"]/ul/li[2]/ul/li[2]/a") WebElement lnkLogin;
 	
+	@FindBy(xpath="//input[@placeholder='Search']")  //For Search Product Test
+	WebElement txtSearchbox;
+	
+	@FindBy(xpath="//div[@id='search']//button[@type='button']") //For Search Product Test
+	WebElement btnSearch;
+	
 	
 	//Action Methods
 	
@@ -32,6 +38,16 @@ public class HomePage extends BasePage {
 	
 	public void clickLogin() {
 		lnkLogin.click();
+	}
+	
+	public void enterProductName(String pName)   //For Search Product Test
+	{
+		txtSearchbox.sendKeys(pName);
+	}
+	
+	public void clickSearch()  //For Search Product Test
+	{
+		btnSearch.click();
 	}
  
 

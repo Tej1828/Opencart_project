@@ -1,3 +1,5 @@
+/Users/tej/eclipse-workspace/OpercartProject/src/test/java/pageObjects/CheckoutPage.java
+/Users/tej/eclipse-workspace/OpercartProject/src/test/java/pageObjects/SearchPage.java
 /Users/tej/eclipse-workspace/OpercartProject/src/test/java/pageObjects/LoginPage.java
 /Users/tej/eclipse-workspace/OpercartProject/src/test/java/utilities/ExcelUtility.java
 /Users/tej/eclipse-workspace/OpercartProject/src/test/java/testCases/TC_001_AccountRegistrationTest.java
@@ -8,6 +10,8 @@
 /Users/tej/eclipse-workspace/OpercartProject/src/test/java/pageObjects/MyAccountpage.java
 /Users/tej/eclipse-workspace/OpercartProject/src/test/java/pageObjects/AccountRegistrationPage.java
 /Users/tej/eclipse-workspace/OpercartProject/src/test/java/testBase/BaseClass.java
+/Users/tej/eclipse-workspace/OpercartProject/src/test/java/pageObjects/ShoppingCartPage.java
 /Users/tej/eclipse-workspace/OpercartProject/src/test/java/utilities/DataProviders.java
 /Users/tej/eclipse-workspace/OpercartProject/src/test/java/testCases/TC_003_LoginDDT.java
 /Users/tej/eclipse-workspace/OpercartProject/src/test/java/testCases/TC_002_LoginTest.java
+/Users/tej/eclipse-workspace/OpercartProject/src/test/java/testCases/TC_004_SearchProductTest.java

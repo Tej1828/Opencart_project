@@ -419,3 +419,67 @@
 15:15:35.389 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login
 15:15:35.390 [main] INFO  testCases.TC_002_LoginTest - Providng Login Creds
 15:15:36.105 [main] INFO  testCases.TC_002_LoginTest -  Finished TC_002_LoginTest
+14:47:18.515 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting TC_0001_AccountResgistrationTest***
+14:47:19.128 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+14:47:21.389 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+14:47:21.396 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+14:47:25.506 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+14:47:25.612 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+14:47:25.619 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Finished TC_001_AccountResgistrationTest
+14:47:34.807 [main] INFO  testCases.TC_002_LoginTest - Starting_TC_002_LoginTest
+14:47:35.368 [main] INFO  testCases.TC_002_LoginTest - Clicked on My account
+14:47:36.272 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login
+14:47:36.284 [main] INFO  testCases.TC_002_LoginTest - Providng Login Creds
+14:47:37.898 [main] INFO  testCases.TC_002_LoginTest -  Finished TC_002_LoginTest
+14:53:58.478 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting TC_0001_AccountResgistrationTest***
+14:53:59.069 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+14:54:01.287 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+14:54:01.291 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+14:54:06.340 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+14:54:06.442 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+14:54:06.444 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Finished TC_001_AccountResgistrationTest
+14:54:17.974 [main] INFO  testCases.TC_002_LoginTest - Starting_TC_002_LoginTest
+14:54:18.621 [main] INFO  testCases.TC_002_LoginTest - Clicked on My account
+14:54:19.457 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login
+14:54:19.460 [main] INFO  testCases.TC_002_LoginTest - Providng Login Creds
+14:54:21.328 [main] INFO  testCases.TC_002_LoginTest -  Finished TC_002_LoginTest
+14:55:23.207 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting TC_0001_AccountResgistrationTest***
+14:55:23.805 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+14:55:26.012 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+14:55:26.015 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+14:55:30.506 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+14:55:30.871 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+14:55:30.872 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Finished TC_001_AccountResgistrationTest
+14:55:39.834 [main] INFO  testCases.TC_002_LoginTest - Starting_TC_002_LoginTest
+14:55:40.491 [main] INFO  testCases.TC_002_LoginTest - Clicked on My account
+14:55:41.280 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login
+14:55:41.282 [main] INFO  testCases.TC_002_LoginTest - Providng Login Creds
+14:55:43.054 [main] INFO  testCases.TC_002_LoginTest -  Finished TC_002_LoginTest
+15:12:33.515 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting TC_0001_AccountResgistrationTest***
+15:12:34.327 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+15:12:36.323 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+15:12:36.328 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+15:12:41.166 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+15:12:41.433 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+15:12:41.434 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Finished TC_001_AccountResgistrationTest
+15:12:50.589 [main] INFO  testCases.TC_002_LoginTest - Starting_TC_002_LoginTest
+15:12:51.236 [main] INFO  testCases.TC_002_LoginTest - Clicked on My account
+15:12:52.031 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login
+15:12:52.033 [main] INFO  testCases.TC_002_LoginTest - Providng Login Creds
+15:12:53.613 [main] INFO  testCases.TC_002_LoginTest -  Finished TC_002_LoginTest
+15:13:02.738 [main] INFO  testCases.TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+15:13:04.682 [main] INFO  testCases.TC_004_SearchProductTest -  Finished TC_004_SearchProductTest 
+15:13:35.846 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting TC_0001_AccountResgistrationTest***
+15:13:36.441 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+15:13:41.298 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+15:13:41.301 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+15:13:45.858 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+15:13:46.184 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+15:13:46.186 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Finished TC_001_AccountResgistrationTest
+15:13:55.868 [main] INFO  testCases.TC_002_LoginTest - Starting_TC_002_LoginTest
+15:13:56.549 [main] INFO  testCases.TC_002_LoginTest - Clicked on My account
+15:13:57.325 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login
+15:13:57.328 [main] INFO  testCases.TC_002_LoginTest - Providng Login Creds
+15:13:58.932 [main] INFO  testCases.TC_002_LoginTest -  Finished TC_002_LoginTest
+15:14:07.917 [main] INFO  testCases.TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+15:14:09.749 [main] INFO  testCases.TC_004_SearchProductTest -  Finished TC_004_SearchProductTest 
